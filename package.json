@@ -1,0 +1,17 @@
+{
+  "name": "lowdefy-example-node",
+  "version": "1.0.0",
+  "description": "Example Lowdefy project using Lowdefy Node.js server.",
+  "scripts": {
+    "build": "lowdefy build",
+    "start": "lowdefy-server"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@lowdefy/server-node": "3.21.0"
+  },
+  "devDependencies": {
+    "lowdefy": "3.21.0"
+  }
+}

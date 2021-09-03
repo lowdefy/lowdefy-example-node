@@ -9,9 +9,9 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@lowdefy/server-node": "3.21.0"
+    "@lowdefy/server-node": "3.21.2"
   },
   "devDependencies": {
-    "lowdefy": "3.21.0"
+    "lowdefy": "3.21.2"
   }
 }

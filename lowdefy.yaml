@@ -1,5 +1,4 @@
-
-lowdefy: 3.21.0
+lowdefy: 3.21.2
 name: Lowdefy starter
 
 pages:
@@ -48,4 +47,3 @@ pages:
               type: secondary
               content: |
                 Made by a Lowdefy 🤖
-
